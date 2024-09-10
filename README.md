@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Cloud Architecture**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [https://github.com/sohilamajid](https://github.com/sohilamajid)
 
 - 📫 How to reach me **sohilamajid2002@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](LinkedIn)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sohila-majid-145442321/](https://www.linkedin.com/in/sohila-majid-145442321/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
