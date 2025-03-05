@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohila Majid</h1>
 <h3 align="center">Interested in Data Science , Cloud Architecture</h3>
 
-- 🌱 I’m currently learning **Data Science & Cloud Architecture**
+- 🌱 I’m currently learning **Data Science & Flutter Mobile APP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sohilamajid](https://github.com/sohilamajid)
 
