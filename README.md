@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohila Majid</h1>
-<h3 align="center">Interested in Data Science, Cloud Architecture</h3>
+<h3 align="center">Interested in Data Science, Flutter Mobile App</h3>
 
 - 🌱 I’m currently learning **Data Science & Flutter Mobile APP**
 
